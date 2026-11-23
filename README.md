@@ -47,4 +47,4 @@ Un objet ordinaire peut ainsi se métamorphoser en une composition totalement di
 ![Premiers croquis du projet](images/kaleidoscope.JPG)
 
 
-
+1
