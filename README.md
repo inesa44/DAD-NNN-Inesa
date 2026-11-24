@@ -42,8 +42,20 @@ Les fragments se reflètent, se répètent et se multiplient de façon asymétri
 Un objet ordinaire peut ainsi se métamorphoser en une composition totalement différente.
 
 ![Premiers croquis du projet](images/cadrage.jpg)
-![Premiers croquis du projet](images/memoires.jpg)
-![Premiers croquis du projet](images/kaleidoscope.jpg)
+![Deuxième croquis du projet](images/memoires.jpg)
+![Troisième croquis du projet](images/kaleidoscope.jpg)
 
 
-1
+# JOUR 2 — 24.11.2026
+
+On laisse souvent derrière soi des objets chargés de souvenirs, une sorte de base d'informations que seul celui qui les a vécus peut déchiffrer avec précision. Mais le temps déforme nos souvenirs ; alors, que se passe-t-il lorsqu'on tente de les reconstituer le plus fidèlement possible : sans filtre, sans idéalisation ?
+
+>Contrairement à un enregistrement vidéo fidèle, nos souvenirs sont souvent altérés, réorganisés, reconstruits – parfois à notre insu.
+
+![Quatrième croquis du projet](images/cadrage2.jpg)
+
+Et si ce n'étaient pas les fragments de souvenirs eux-mêmes qui étaient déjà déformés, mais plutôt notre tentative de reconstituer le puzzle de souvenirs oubliés en faisant défiler, en faisant pivoter et en cliquant ? Et nous recevrions des informations différentes selon la manière dont nous reconstituons le fragment de mémoire.
+
+![mood board 1](images/1mood_board.png)
+
+![mood board 2](images/2mood_board.png)
