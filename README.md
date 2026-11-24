@@ -41,7 +41,6 @@ Les fragments se reflètent, se répètent et se multiplient de façon asymétri
 
 Un objet ordinaire peut ainsi se métamorphoser en une composition totalement différente.
 
-
 ![Premiers croquis du projet](images/cadrage.JPG)
 ![Premiers croquis du projet](images/memoires.JPG)
 ![Premiers croquis du projet](images/kaleidoscope.JPG)
