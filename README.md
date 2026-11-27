@@ -123,5 +123,25 @@ La nostalgie nous invite finalement à réfléchir à notre rapport à la mémoi
 
 5. [BLING — Business Nostalgie](https://www.bling.eu/media/business-nostalgie/)
 
+![croquis du projet](images/cadrage3.jpg)
+
+# JOUR 4 — 27.11.2026
+
+préparation des concept art
+
+![concept art 1](images/art1.png)
+![concept art 2](images/art2.png)
+![concept art 3](images/art3.png)
 
 
+La mémoire n'est pas un enregistrement exact des événements. Elle est reconstruite à chaque fois que nous nous en souvenons.
+
+![concept art 4](images/art4.png)
+![concept art 4.1](images/art4.1.jpg)
+![concept art 4.2](images/art4.2.jpg)
+
+Quelques expériences sur *editor.p5js.org* avec la déformation de fragments d'image
+
+![test 1](images/test1.png)
+![test 2](images/test2.png)
+![test 3](images/test.png)

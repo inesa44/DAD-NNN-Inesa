@@ -41,3 +41,19 @@ Un jeu expérimental à la première personne dans lequel le joueur explore un �
 ![Ever Seen A Cat? 1](images/Cat1.jpg)
 ![Ever Seen A Cat? 2](images/Cat2.jpg)
 
+### Synthetic_Nostalgia by Giu_NFT
+
+(https://www.raster.art/artwork/synthetic-nostalgia-by-giulianno-montijo-moranicol-and-valentina-montijo)
+
+![Synthetic Nostalgia 1](images/nft1.png)
+![Synthetic Nostalgia 2](images/nft2.png)
+
+### Dolma | Zhuoyu Zhang
+(https://www.digitalamerica.org/dolma-zhuoyu-zhang)
+
+![Dolma](images/Dolma.png)
+
+### Fragmented Room
+
+(https://sites.google.com/ucsd.edu/cindy-jin-fragmentedroom/home)
+
